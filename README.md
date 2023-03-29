@@ -18,7 +18,6 @@ Hey there
 🌱 I’m currently learning FullStack Web Development and a Cognitive-Science Enthusiast...
 
 
-❤️ Other than Programming I love to do workout and running...
 </div>
 
 <hr>
