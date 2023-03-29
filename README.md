@@ -1,12 +1,8 @@
-<div align="center">
-<img src="https://tenor.com/en-GB/view/coding-gif-18657810.gif" align="center" style="width: 100%" />
-</div>  
-
 
 <div align="center">
 <h1>
 Hey there 
-<img src="https://giphy.com/gifs/impossible-is-nothing-fS9PCxQYG0ULu" width="50px"/>, I'm Shrishti Mishra...
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>, I'm Shrishti Mishra...
 </h1>
 </div>
 
@@ -50,9 +46,9 @@ Reach Me out at: shrishti.mishra3110@gmail.com or message me on Linkedin...
 <div align="center">
 <h3>🔥 Github Stats:</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShivankK26&show_icons=true&theme=radical" align="center" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shrishti2418&show_icons=true&theme=radical" align="center" style="width: 50%" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivankK26&layout=compact" align="center" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrishti2418&layout=compact" align="center" style="width: 50%" />
 </div>
 
 
