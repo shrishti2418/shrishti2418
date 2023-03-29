@@ -1,16 +1,80 @@
-### Hi there 👋
+<div align="center">
+<img src="https://tenor.com/en-GB/view/coding-gif-18657810.gif" align="center" style="width: 100%" />
+</div>  
 
-<!--
-**shrishti2418/shrishti2418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+<h1>
+Hey there 
+<img src="https://giphy.com/gifs/impossible-is-nothing-fS9PCxQYG0ULu" width="50px"/>, I'm Shrishti Mishra...
+</h1>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+<h3>
+👩‍💻 About Me :
+</h3>
+
+🔭 I’m a Google Women TechMaker...
+
+
+🌱 I’m currently learning FullStack Web Development and a Cognitive-Science Enthusiast...
+
+
+❤️ Other than Programming I love to do workout and running...
+</div>
+
+<hr>
+
+<div id="badges" align="center">
+<h3>
+📫 Connect With Me:
+</h3>
+
+
+Reach Me out at: shrishti.mishra3110@gmail.com or message me on Linkedin...
+
+
+  <a href="https://www.linkedin.com/in/shrishti-mishra-a19a18211">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+  <a href="https://github.com/shrishti2418">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github Badge"/>
+  </a>
+  
+</div>
+
+<hr>
+
+<div align="center">
+<h3>🔥 Github Stats:</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShivankK26&show_icons=true&theme=radical" align="center" style="width: 50%" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivankK26&layout=compact" align="center" style="width: 50%" />
+</div>
+
+
+<hr>
+
+
+<div id="badges" align="center">
+<h3>
+🛠️ Languages and Tools :
+</h3>
+
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,js" />
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
+</a> 
+</p>
+</div>
+
+<hr>
